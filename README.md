@@ -29,7 +29,7 @@ SMS onay sistemlerinden faydalanmak için [**Mobil Onay Hizmeti**](https://smson
 
 ## Sonuç
 
-Hesap doğrulama işlemlerinizde **SMS onay** kullanarak güvenliğinizi en üst seviyeye çıkarabilirsiniz. [**SMS Onaycı**](https://smsonaycim.net) gibi bir hizmet, kullanıcı deneyiminizi iyileştirirken, hesabınızı koruma altına alır.
+Hesap doğrulama işlemlerinizde **SMS onay** kullanarak güvenliğinizi en üst seviyeye çıkarabilirsiniz. [**SMS Onaycım**](https://smsonaycim.net) gibi bir hizmet, kullanıcı deneyiminizi iyileştirirken, hesabınızı koruma altına alır.
 
 ---
 
